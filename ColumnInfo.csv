@@ -1,0 +1,6 @@
+﻿Oder,BindingProperty,TemplateName,Header
+0,Date,DateTemplate,StockDate
+1,Open,DoubleTemplate,Open
+2,High,DoubleTemplate,High
+3,Close,DoubleTemplate,Close
+4,Low,DoubleTemplate,Low
